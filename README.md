@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" alt="Power BI">
 </div>
 
 ## 👨‍💻 About Me
@@ -55,7 +54,8 @@ Information Systems `2017 - 2021`
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/aleksaljujic)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail)](mailto:aleksa.jlujic2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail)](mailto:aleksa.jlujic2@gmail.com
+)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/aleksaljujic) 
 
 > *"The best way to predict the future is to create it."* - Alan Kay
